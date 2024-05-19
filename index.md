@@ -3,19 +3,30 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: apriljohnson.jpeg
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Resourceful Help Desk Supervisor with 15 years of experience specializing in troubleshooting and resolving issues for digital collaboration tools used by the Navy. Proven ability to conduct thorough research and provide detailed, patient instructions to ensure efficient problem resolution. Skilled in training employees and maintaining high standards of customer service. Driven professional pursuing opportunities in computer information systems and information technology, with a specific interest in cybersecurity and system administration.
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+<br>
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Throughout my career, I have developed a deep understanding of various digital collaboration platforms and security protocols, which has enabled me to enhance the efficiency and security posture of various environments that I have supported. 
 
-PS: If you liked the theme, do star it on GitHub!
+<br>
 
-### Also, check out:
+In addition to my technical skills, I have a great ability to build strong relationships with stakeholders, understanding their needs, and providing solutions that align with organizational goals. My proactive approach and attention to detail have consistently resulted in high customer satisfaction and operational excellence. My goal is to contribute to an organization where I can leverage my expertise to drive innovation, enhance security, and support the seamless operation of IT systems.
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+<br>
+
+**Technical Proficiencies:**
+
+- Windows Operating Systems
+- Windchill Software
+- Creating and Implementing Training Documentation
+
+<br>
+
+**Certifications:**
+
+- CompTIA Security+

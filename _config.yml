@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: April Johnson
+description: Program Analyst | IT Helpdesk Supervisor
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 twitter: "#"
-linkedin: "#"
+linkedin: "https://www.linkedin.com/in/april-johnson-b3018230/"
 stackoverflow: "#"
 github: "#"
 researchgate: "#"
